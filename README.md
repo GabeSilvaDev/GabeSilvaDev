@@ -10,7 +10,7 @@
   <img align="center" alt="Logo Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Logo Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Logo React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Logo Node" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg">
+  <img align="center" alt="Logo Node" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/bootstrap.svg">
   <img align="right" alt="Ilustração minha" height="150" style="border-radius:50px;" src="https://i.imgur.com/2b1HIcL.jpg">
 </div>
 
