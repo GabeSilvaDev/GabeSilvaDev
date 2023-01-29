@@ -13,7 +13,6 @@
   <img align="center" alt="Logo React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Logo Bootstrap" height="30" width="40" src="https://github.com/Alexander-Pop/devicons/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Logo Git" height="30" width="40" src="https://github.com/Alexander-Pop/devicons/blob/master/icons/git/git-original.svg">
-  <img align="right" alt="Ilustração minha" height="150" style="border-radius:50px;" src="https://i.imgur.com/2b1HIcL.jpg">
 </div>
 
   ##
