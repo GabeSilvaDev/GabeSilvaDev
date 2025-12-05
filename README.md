@@ -1,14 +1,32 @@
 # 👋 Olá! Eu sou Gabriel Silva
 
+<div align="center">
+  
+  ### 🚀 Desenvolvedor Full-Stack | Transformando café em código desde sempre ☕
+  
+</div>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabeSilvaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeSilvaDev&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabeSilvaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeSilvaDev&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabeSilvaDev&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabeSilvaDev&theme=dracula" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/GabeSilvaDev/GabeSilvaDev/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 ---
@@ -73,14 +91,4 @@ const gabriel = {
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-da-silva-28a51124b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/GabeSilvaDev/count.svg)
-  
-  ⭐️ From [GabeSilvaDev](https://github.com/GabeSilvaDev)
-  
 </div>
