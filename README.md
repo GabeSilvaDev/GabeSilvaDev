@@ -1,27 +1,5 @@
 # 👋 Olá! Eu sou Gabriel Silva
 
-<div align="center">
-  
-  ### 🚀 Desenvolvedor Full-Stack | Transformando café em código desde sempre ☕
-  
-  > *"Debug é como ser um detetive em um filme policial onde você também é o assassino."*
-  
-</div>
-
----
-
-## 💫 Sobre Mim
-
-Sou um desenvolvedor apaixonado por criar soluções elegantes para problemas complexos. Quando não estou mergulhado em código, provavelmente estou pensando em... mais código! 😄
-
-- 🔭 Atualmente trabalhando com **PHP/Laravel** e **TypeScript/Angular**
-- 🌱 Sempre aprendendo e explorando novas tecnologias
-- 💡 Adoro resolver desafios técnicos e otimizar performance
-- 🎯 Focado em clean code, boas práticas e arquitetura escalável
-- ⚡ Fun fact: Já perdi a conta de quantas vezes esqueci um ponto e vírgula
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -81,7 +59,6 @@ const gabriel = {
     architecture: ["Microservices", "Event-Driven", "REST APIs"]
   },
   currentFocus: "Construindo aplicações robustas e escaláveis",
-  funFact: "Existe 2 tipos de devs: os que entendem recursão e os que entendem recursão 😄"
 };
 ```
 
@@ -101,12 +78,6 @@ const gabriel = {
 ---
 
 <div align="center">
-  
-  ### 💭 Pensamento do Dia
-  
-  *"Código limpo não é escrito seguindo regras. Você sabe que escreveu código limpo quando cada função faz exatamente o que você espera que ela faça."* - Robert C. Martin
-  
-  ---
   
   ![Visitor Count](https://profile-counter.glitch.me/GabeSilvaDev/count.svg)
   
