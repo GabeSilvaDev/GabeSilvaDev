@@ -19,79 +19,31 @@ Desenvolvedor Web focado em construir aplicações modernas, escaláveis e bem e
 
 ## 🚀 Sobre mim
 
-Atuo no desenvolvimento de aplicações web completas, com experiência em backend, frontend, integrações, arquitetura de sistemas e melhoria contínua de projetos.
+Atuo no desenvolvimento de aplicações web completas, com foco em **backend**, **frontend**, **integrações entre sistemas**, **APIs REST** e **arquitetura de aplicações**.
 
-Tenho interesse em criar soluções robustas, bem documentadas e pensadas para crescimento, utilizando boas práticas de código, organização por camadas, testes automatizados e foco em manutenibilidade.
+Gosto de trabalhar com projetos bem organizados, pensando em manutenibilidade, clareza de código, performance, segurança e evolução contínua do produto.
 
-```typescript
-const gabriel = {
-  role: "Full Stack Web Developer",
-
-  mainStack: ["Laravel", "Angular", "TypeScript", "PHP"],
-
-  backend: ["Laravel", "PHP", "Node.js", "REST APIs"],
-
-  frontend: ["Angular", "TypeScript", "Sass", "HTML", "CSS"],
-
-  databases: ["MySQL", "MongoDB", "Redis"],
-
-  devOps: ["Docker", "Git", "Azure DevOps"],
-
-  architecture: [
-    "Clean Architecture",
-    "Microservices",
-    "Event-Driven Architecture",
-    "API Integration"
-  ],
-
-  currentFocus: "Construindo aplicações web escaláveis, seguras e bem estruturadas"
-};
-```
+Minha principal stack está concentrada em **Laravel**, **Angular**, **TypeScript**, **PHP**, **MySQL**, **Docker** e ferramentas modernas para desenvolvimento e entrega de software.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-
 <div align="left">
 
-  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
-</div>
-
-### Frontend
-
-<div align="left">
-
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Sass" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-</div>
-
-### Banco de Dados
-
-<div align="left">
-
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Redis" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-
-</div>
-
-### DevOps, Arquitetura e Ferramentas
-
-<div align="left">
-
-  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Apache Kafka" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
-  <img align="center" alt="Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
 
 </div>
 
@@ -145,3 +97,4 @@ const gabriel = {
   </a>
 
 </div>
+
