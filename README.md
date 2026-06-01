@@ -79,14 +79,16 @@ Minha principal stack está concentrada em **Laravel**, **Angular**, **TypeScrip
     alt="GitHub Profile Summary"
   />
 
-  <br/>
+  <br/><br/>
 
   <img
+    width="390"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabeSilvaDev&theme=tokyonight"
     alt="Repositories per Language"
   />
 
   <img
+    width="390"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabeSilvaDev&theme=tokyonight"
     alt="Most Commit Language"
   />
