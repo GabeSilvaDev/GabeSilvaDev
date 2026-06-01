@@ -70,20 +70,25 @@ Minha principal stack está concentrada em **Laravel**, **Angular**, **TypeScrip
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Atividade no GitHub
 
 <div align="center">
 
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=GabeSilvaDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabeSilvaDev&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
+
+  <br/>
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabeSilvaDev&theme=tokyonight"
+    alt="Repositories per Language"
   />
 
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeSilvaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabeSilvaDev&theme=tokyonight"
+    alt="Most Commit Language"
   />
 
 </div>
