@@ -76,13 +76,13 @@ Minha principal stack está concentrada em **Laravel**, **Angular**, **TypeScrip
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=GabeSilvaDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=GabeSilvaDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
     alt="GitHub Stats"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeSilvaDev&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeSilvaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 
