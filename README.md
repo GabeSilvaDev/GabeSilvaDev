@@ -43,7 +43,7 @@ Full-stack developer with 2.5+ years building production web applications — RE
 
 **[Knowledge Hub API](https://github.com/GabeSilvaDev/knowledge-hub)**<br>
 REST API for a social knowledge-sharing platform: versioned articles, feed, full-text search, graph-based recommendations and real-time rankings.<br>
-<sub>Laravel 12 · MongoDB · Redis · Meilisearch · Neo4j · 1,184 Pest tests · PHPStan level 10</sub>
+<sub>Laravel 12 · MongoDB · Redis · Meilisearch · Neo4j · 1,192 Pest tests · PHPStan level 10</sub>
 
 </td>
 <td width="50%" valign="top">
