@@ -39,7 +39,7 @@ Desenvolvedor full-stack com mais de 2 anos e meio construindo aplicações web 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GabeSilvaDev/knowledge-hub"><img src="https://raw.githubusercontent.com/GabeSilvaDev/knowledge-hub/main/docs/banner.png" alt="Knowledge Hub API"></a>
+<a href="https://github.com/GabeSilvaDev/knowledge-hub"><img src="assets/knowledge-hub.jpg" width="100%" alt="Knowledge Hub API"></a>
 
 **[Knowledge Hub API](https://github.com/GabeSilvaDev/knowledge-hub)**<br>
 API REST de uma plataforma social de compartilhamento de conhecimento: artigos versionados, feed, busca full-text, recomendações baseadas em grafo e rankings em tempo real.<br>
@@ -48,7 +48,7 @@ API REST de uma plataforma social de compartilhamento de conhecimento: artigos v
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GabeSilvaDev/Subterraneo"><img src="https://raw.githubusercontent.com/GabeSilvaDev/Subterraneo/index/docs/images/banner.jpg" alt="Subterrâneo"></a>
+<a href="https://github.com/GabeSilvaDev/Subterraneo"><img src="assets/subterraneo.jpg" width="100%" alt="Subterrâneo"></a>
 
 **[Subterrâneo](https://github.com/GabeSilvaDev/Subterraneo)** · [▶ Jogar no navegador](https://gabesilvadev.github.io/Subterraneo/)<br>
 Aventura 2D top-down em cavernas: nove fases, combate corpo a corpo, travessia de carrinho de mina e chefão final com duas fases. Builds para Windows, Linux e Web.<br>
@@ -59,7 +59,7 @@ Aventura 2D top-down em cavernas: nove fases, combate corpo a corpo, travessia d
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GabeSilvaDev/mago-ficha"><img src="https://raw.githubusercontent.com/GabeSilvaDev/mago-ficha/main/docs/img/banner.png" alt="Ficha de Mago: A Ascensão"></a>
+<a href="https://github.com/GabeSilvaDev/mago-ficha"><img src="assets/mago-ficha.jpg" width="100%" alt="Ficha de Mago: A Ascensão"></a>
 
 **[Mago: A Ascensão — Ficha de Personagem](https://github.com/GabeSilvaDev/mago-ficha)** · [▶ Abrir o app](https://gabesilvadev.github.io/mago-ficha/)<br>
 Ficha offline-first com assistente de criação que aplica as regras do livro, exportação para o PDF oficial e mesa online opcional.<br>
@@ -68,7 +68,7 @@ Ficha offline-first com assistente de criação que aplica as regras do livro, e
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GabeSilvaDev/fichario-do-outro-lado"><img src="https://raw.githubusercontent.com/GabeSilvaDev/fichario-do-outro-lado/main/docs/imagens/banner.jpg" alt="Fichário do Outro Lado"></a>
+<a href="https://github.com/GabeSilvaDev/fichario-do-outro-lado"><img src="assets/fichario-do-outro-lado.jpg" width="100%" alt="Fichário do Outro Lado"></a>
 
 **[Fichário do Outro Lado](https://github.com/GabeSilvaDev/fichario-do-outro-lado)** · [▶ Abrir o app](https://gabesilvadev.github.io/fichario-do-outro-lado/)<br>
 Ficha de personagem e mesa online em tempo real para o RPG *Ordem Paranormal*: fichas e rolagens espelhadas para o mestre em ~2 s, bestiário com 150 fichas.<br>

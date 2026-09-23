@@ -39,7 +39,7 @@ Full-stack developer with 2.5+ years building production web applications — RE
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GabeSilvaDev/knowledge-hub"><img src="https://raw.githubusercontent.com/GabeSilvaDev/knowledge-hub/main/docs/banner.png" alt="Knowledge Hub API"></a>
+<a href="https://github.com/GabeSilvaDev/knowledge-hub"><img src="assets/knowledge-hub.jpg" width="100%" alt="Knowledge Hub API"></a>
 
 **[Knowledge Hub API](https://github.com/GabeSilvaDev/knowledge-hub)**<br>
 REST API for a social knowledge-sharing platform: versioned articles, feed, full-text search, graph-based recommendations and real-time rankings.<br>
@@ -48,7 +48,7 @@ REST API for a social knowledge-sharing platform: versioned articles, feed, full
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GabeSilvaDev/Subterraneo"><img src="https://raw.githubusercontent.com/GabeSilvaDev/Subterraneo/index/docs/images/banner.jpg" alt="Subterrâneo"></a>
+<a href="https://github.com/GabeSilvaDev/Subterraneo"><img src="assets/subterraneo.jpg" width="100%" alt="Subterrâneo"></a>
 
 **[Subterrâneo](https://github.com/GabeSilvaDev/Subterraneo)** · [▶ Play in the browser](https://gabesilvadev.github.io/Subterraneo/)<br>
 2D top-down cave adventure: nine levels, melee combat, minecart traversal and a two-phase final boss. Windows, Linux and Web builds.<br>
@@ -59,7 +59,7 @@ REST API for a social knowledge-sharing platform: versioned articles, feed, full
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GabeSilvaDev/mago-ficha"><img src="https://raw.githubusercontent.com/GabeSilvaDev/mago-ficha/main/docs/img/banner.png" alt="Mage: The Ascension character sheet"></a>
+<a href="https://github.com/GabeSilvaDev/mago-ficha"><img src="assets/mago-ficha.jpg" width="100%" alt="Mage: The Ascension character sheet"></a>
 
 **[Mage: The Ascension — Character Sheet](https://github.com/GabeSilvaDev/mago-ficha)** · [▶ Open the app](https://gabesilvadev.github.io/mago-ficha/)<br>
 Offline-first character sheet with a rule-enforcing creation wizard, official PDF export and an optional live online table.<br>
@@ -68,7 +68,7 @@ Offline-first character sheet with a rule-enforcing creation wizard, official PD
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GabeSilvaDev/fichario-do-outro-lado"><img src="https://raw.githubusercontent.com/GabeSilvaDev/fichario-do-outro-lado/main/docs/imagens/banner.jpg" alt="Fichário do Outro Lado"></a>
+<a href="https://github.com/GabeSilvaDev/fichario-do-outro-lado"><img src="assets/fichario-do-outro-lado.jpg" width="100%" alt="Fichário do Outro Lado"></a>
 
 **[Fichário do Outro Lado](https://github.com/GabeSilvaDev/fichario-do-outro-lado)** · [▶ Open the app](https://gabesilvadev.github.io/fichario-do-outro-lado/)<br>
 Character sheet and real-time online table for the *Ordem Paranormal* RPG: sheets and rolls mirrored to the GM in ~2 s, 150-entry bestiary.<br>
