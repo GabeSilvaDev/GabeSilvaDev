@@ -18,9 +18,10 @@ Remote from Brazil (UTC-3) · Open to remote opportunities
 
 Full-stack developer with 2.5+ years building production web applications — REST APIs in Laravel and Node.js, Angular front ends, relational and NoSQL databases, Docker and CI/CD. I care about readable code, automated tests and shipping things people actually use.
 
-- 💼 **Full-Stack Developer (Mid-level) at [AGTech Soluções](https://grupoagtech.com)** — remote, since March 2024. Laravel + Angular + MySQL products (HidroMeter, Topes, PremoPlan) used by clients in Brazil, Singapore and Panama. I designed and own HidroMeter's automatic-trigger module end to end.
+- 💼 **Full-Stack Developer at [AGTech Soluções](https://grupoagtech.com)** — remote, since March 2024 (mid-level since January 2026). Laravel + Angular + MySQL products (HidroMeter, Topes, PremoPlan) used by clients in Brazil, Singapore and Panama. I designed and own HidroMeter's automatic-trigger module end to end.
 - 🚀 **Founder of [Kodem ABNT](https://kodem.com.br)** — a SaaS that formats Brazilian academic papers to the ABNT standard: reference auto-fill from DOI/ISBN/URL, a CrossRef-backed reference checker and Word (`.docx`) export. Angular 20 + Laravel, 500+ active users since its June 2026 launch.
-- 🌍 **Open-source contributor** — merged fixes in Laravel, Symfony, Swashbuckle.AspNetCore and Super Productivity ([see below](#open-source-contributions)).
+- 🌍 **Open-source contributor** — 19 merged pull requests in Laravel, Symfony, Angular, Swashbuckle.AspNetCore and Super Productivity: framework fixes and documentation corrections ([see below](#open-source-contributions)).
+- 📜 [145 TreinaWeb certificates](https://github.com/GabeSilvaDev/certificados) (12 learning paths, 133 courses), each with a public validation link.
 - 🎓 B.Sc. in Computer Science at UNIP (expected December 2027).
 
 ## Tech stack
@@ -82,19 +83,31 @@ Character sheet and real-time online table for the *Ordem Paranormal* RPG: sheet
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Real-Time Messaging Platform](https://github.com/GabeSilvaDev/realtime-messaging-platform) | Chat backend — JWT auth with refresh-token rotation and sessions, profiles, avatar upload (local or S3); WebSocket messaging next. 1,316 Jest tests, CI on every push. | Node.js · TypeScript · Express 5 · PostgreSQL · Redis · MongoDB · Elasticsearch |
-| [Fintech Bank Platform](https://github.com/GabeSilvaDev/fintech-bank-platform) | Event-driven banking backend — an API gateway publishes commands to Kafka; account and transaction services settle deposits, withdrawals and transfers as sagas with compensation. 100% test coverage enforced in CI. | Go · Kafka (KRaft) · Cassandra · Redis |
+| [Real-Time Messaging Platform](https://github.com/GabeSilvaDev/realtime-messaging-platform) | Chat backend — JWT auth with refresh-token rotation, profiles and contacts; 1:1 and group chat over REST and Socket.IO with delivered/read receipts, typing indicators and presence; Redis caching and full-text message search on Elasticsearch. Notifications next. 2,963 Jest tests, CI on every push. | Node.js · TypeScript · Express 5 · Socket.IO · PostgreSQL · Redis · MongoDB · Elasticsearch |
+| [Fintech Bank Platform](https://github.com/GabeSilvaDev/fintech-bank-platform) | Event-driven banking backend — an API gateway publishes commands to Kafka; five services settle deposits, withdrawals, transfers and PIX/TED/boleto payments as sagas and turn results into e-mail, SMS and push. JWT auth, Prometheus + OpenTelemetry, k6 load tests, 100% test coverage enforced in CI. | Go · Kafka (KRaft) · Cassandra · Redis |
 
 ## Open-source contributions
+
+**19 merged pull requests in 7 repositories**
+
+**Framework and library fixes**
 
 | Project | Pull request | Status |
 |---|---|:---:|
 | [laravel/framework](https://github.com/laravel/framework) | [#61567](https://github.com/laravel/framework/pull/61567) — Fix `appendToPriorityList()` when the referenced middleware is the first item | ✅ Merged |
 | [symfony/symfony](https://github.com/symfony/symfony) | [#66023](https://github.com/symfony/symfony/pull/66023) — [HttpFoundation] Fix `IpUtils::anonymize()` for non-canonical IPv4-mapped addresses | ✅ Merged |
 | [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | [#4152](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/4152) — Strip query string from relative document URLs in Swagger UI | ✅ Merged |
-| [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10059](https://github.com/super-productivity/super-productivity/pull/10059) — Make Tab accept a tag suggestion and Enter use the typed text | ✅ Merged |
+| [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10059](https://github.com/super-productivity/super-productivity/pull/10059) · [#10075](https://github.com/super-productivity/super-productivity/pull/10075) · [#10076](https://github.com/super-productivity/super-productivity/pull/10076) — tag suggestions, dropped i18n placeholders and op-log sync of time tracking | ✅ Merged |
 | [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | [#12888](https://github.com/typescript-eslint/typescript-eslint/pull/12888) — Declare inferred type parameters in the conditional type whose `extends` clause contains them | 🔍 In review |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | [#7937](https://github.com/ghostfolio/ghostfolio/pull/7937) — Fix alignment of the average price in the holding detail chart | 🔍 In review |
+
+**Documentation** — each fix checked against the framework source, most with a script reproducing the wrong behavior
+
+| Project | Pull requests | What they fix |
+|---|---|---|
+| [laravel/docs](https://github.com/laravel/docs) | [#11378](https://github.com/laravel/docs/pull/11378) · [#11380](https://github.com/laravel/docs/pull/11380) · [#11381](https://github.com/laravel/docs/pull/11381) · [#11382](https://github.com/laravel/docs/pull/11382) · [#11384](https://github.com/laravel/docs/pull/11384) · [#11385](https://github.com/laravel/docs/pull/11385) · [#11386](https://github.com/laravel/docs/pull/11386) · [#11387](https://github.com/laravel/docs/pull/11387) · [#11388](https://github.com/laravel/docs/pull/11388) | Code examples that fail when run, wrong class and method names, and descriptions that don't match 13.x behavior |
+| [angular/angular](https://github.com/angular/angular) | [#70996](https://github.com/angular/angular/pull/70996) · [#71049](https://github.com/angular/angular/pull/71049) · [#71091](https://github.com/angular/angular/pull/71091) | Guides still describing APIs and defaults from before v20–v22 |
+| [symfony/symfony-docs](https://github.com/symfony/symfony-docs) | [#23128](https://github.com/symfony/symfony-docs/pull/23128) | Wrong default for the `Range` constraint's `invalidDateTimeMessage` |
 
 ## Contact
 

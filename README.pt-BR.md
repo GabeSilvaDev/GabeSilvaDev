@@ -18,9 +18,10 @@ Remoto, do Brasil (UTC-3) · Aberto a oportunidades remotas
 
 Desenvolvedor full-stack com mais de 2 anos e meio construindo aplicações web em produção — APIs REST em Laravel e Node.js, front-ends em Angular, bancos relacionais e NoSQL, Docker e CI/CD. Prezo por código legível, testes automatizados e entregar coisas que as pessoas realmente usam.
 
-- 💼 **Desenvolvedor Full-Stack Pleno na [AGTech Soluções](https://grupoagtech.com)** — remoto, desde março de 2024. Produtos em Laravel + Angular + MySQL (HidroMeter, Topes, PremoPlan) usados por clientes no Brasil, em Singapura e no Panamá. Projetei e sou responsável, de ponta a ponta, pelo módulo de acionamento automático do HidroMeter.
+- 💼 **Desenvolvedor Full-Stack na [AGTech Soluções](https://grupoagtech.com)** — remoto, desde março de 2024 (pleno desde janeiro de 2026). Produtos em Laravel + Angular + MySQL (HidroMeter, Topes, PremoPlan) usados por clientes no Brasil, em Singapura e no Panamá. Projetei e sou responsável, de ponta a ponta, pelo módulo de acionamento automático do HidroMeter.
 - 🚀 **Fundador do [Kodem ABNT](https://kodem.com.br)** — SaaS que formata trabalhos acadêmicos nas normas da ABNT: preenchimento automático de referências por DOI/ISBN/URL, verificador de referências com CrossRef e exportação para Word (`.docx`). Angular 20 + Laravel, mais de 500 usuários ativos desde o lançamento em junho de 2026.
-- 🌍 **Contribuidor open source** — correções mescladas no Laravel, Symfony, Swashbuckle.AspNetCore e Super Productivity ([veja abaixo](#contribuições-open-source)).
+- 🌍 **Contribuidor open source** — 19 pull requests mesclados no Laravel, Symfony, Angular, Swashbuckle.AspNetCore e Super Productivity: correções de framework e de documentação ([veja abaixo](#contribuições-open-source)).
+- 📜 [145 certificados da TreinaWeb](https://github.com/GabeSilvaDev/certificados) (12 formações e 133 cursos), cada um com link público de validação.
 - 🎓 Bacharelado em Ciência da Computação na UNIP (conclusão prevista para dezembro de 2027).
 
 ## Tecnologias
@@ -82,19 +83,31 @@ Ficha de personagem e mesa online em tempo real para o RPG *Ordem Paranormal*: f
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [Real-Time Messaging Platform](https://github.com/GabeSilvaDev/realtime-messaging-platform) | Back-end de chat — autenticação JWT com rotação de refresh token e sessões, perfis, upload de avatar (local ou S3); mensagens via WebSocket na sequência. 1.316 testes Jest, CI a cada push. | Node.js · TypeScript · Express 5 · PostgreSQL · Redis · MongoDB · Elasticsearch |
-| [Fintech Bank Platform](https://github.com/GabeSilvaDev/fintech-bank-platform) | Back-end bancário orientado a eventos — um API gateway publica comandos no Kafka; os serviços de conta e de transação liquidam depósitos, saques e transferências como sagas com compensação. Cobertura de testes de 100% exigida no CI. | Go · Kafka (KRaft) · Cassandra · Redis |
+| [Real-Time Messaging Platform](https://github.com/GabeSilvaDev/realtime-messaging-platform) | Back-end de chat — autenticação JWT com rotação de refresh token, perfis e contatos; chat 1:1 e em grupo via REST e Socket.IO, com confirmação de entrega/leitura, indicador de digitação e presença; cache em Redis e busca full-text de mensagens no Elasticsearch. Notificações na sequência. 2.963 testes Jest, CI a cada push. | Node.js · TypeScript · Express 5 · Socket.IO · PostgreSQL · Redis · MongoDB · Elasticsearch |
+| [Fintech Bank Platform](https://github.com/GabeSilvaDev/fintech-bank-platform) | Back-end bancário orientado a eventos — um API gateway publica comandos no Kafka; cinco serviços liquidam depósitos, saques, transferências e pagamentos PIX/TED/boleto como sagas e transformam os resultados em e-mail, SMS e push. Autenticação JWT, Prometheus + OpenTelemetry, testes de carga com k6 e cobertura de testes de 100% exigida no CI. | Go · Kafka (KRaft) · Cassandra · Redis |
 
 ## Contribuições open source
+
+**19 pull requests mesclados em 7 repositórios**
+
+**Correções em frameworks e bibliotecas**
 
 | Projeto | Pull request | Status |
 |---|---|:---:|
 | [laravel/framework](https://github.com/laravel/framework) | [#61567](https://github.com/laravel/framework/pull/61567) — Corrige `appendToPriorityList()` quando o middleware de referência é o primeiro item | ✅ Mesclado |
 | [symfony/symfony](https://github.com/symfony/symfony) | [#66023](https://github.com/symfony/symfony/pull/66023) — [HttpFoundation] Corrige `IpUtils::anonymize()` para endereços IPv4-mapped não canônicos | ✅ Mesclado |
 | [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | [#4152](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/4152) — Remove a query string das URLs relativas de documentos no Swagger UI | ✅ Mesclado |
-| [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10059](https://github.com/super-productivity/super-productivity/pull/10059) — Tab aceita a sugestão de tag e Enter usa o texto digitado | ✅ Mesclado |
+| [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10059](https://github.com/super-productivity/super-productivity/pull/10059) · [#10075](https://github.com/super-productivity/super-productivity/pull/10075) · [#10076](https://github.com/super-productivity/super-productivity/pull/10076) — sugestões de tag, placeholders de i18n perdidos e sincronização do tempo registrado no op-log | ✅ Mesclado |
 | [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | [#12888](https://github.com/typescript-eslint/typescript-eslint/pull/12888) — Declara parâmetros de tipo inferidos no tipo condicional cuja cláusula `extends` os contém | 🔍 Em revisão |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | [#7937](https://github.com/ghostfolio/ghostfolio/pull/7937) — Corrige o alinhamento do preço médio no gráfico de detalhes do ativo | 🔍 Em revisão |
+
+**Documentação** — cada correção conferida no código-fonte do framework, a maioria com um script que reproduz o comportamento errado
+
+| Projeto | Pull requests | O que corrigem |
+|---|---|---|
+| [laravel/docs](https://github.com/laravel/docs) | [#11378](https://github.com/laravel/docs/pull/11378) · [#11380](https://github.com/laravel/docs/pull/11380) · [#11381](https://github.com/laravel/docs/pull/11381) · [#11382](https://github.com/laravel/docs/pull/11382) · [#11384](https://github.com/laravel/docs/pull/11384) · [#11385](https://github.com/laravel/docs/pull/11385) · [#11386](https://github.com/laravel/docs/pull/11386) · [#11387](https://github.com/laravel/docs/pull/11387) · [#11388](https://github.com/laravel/docs/pull/11388) | Exemplos de código que falham ao rodar, nomes de classes e métodos errados e descrições que não batem com o comportamento do 13.x |
+| [angular/angular](https://github.com/angular/angular) | [#70996](https://github.com/angular/angular/pull/70996) · [#71049](https://github.com/angular/angular/pull/71049) · [#71091](https://github.com/angular/angular/pull/71091) | Guias que ainda descreviam APIs e padrões de antes da v20–v22 |
+| [symfony/symfony-docs](https://github.com/symfony/symfony-docs) | [#23128](https://github.com/symfony/symfony-docs/pull/23128) | Valor padrão errado do `invalidDateTimeMessage` da constraint `Range` |
 
 ## Contato
 
