@@ -20,7 +20,7 @@ Full-stack developer with 2.5+ years building production web applications — RE
 
 - 💼 **Full-Stack Developer at [AGTech Soluções](https://grupoagtech.com)** — remote, since March 2024 (mid-level since January 2026). Laravel + Angular + MySQL products (HidroMeter, Topes, PremoPlan) used by clients in Brazil, Singapore and Panama. I designed and own HidroMeter's automatic-trigger module end to end.
 - 🚀 **Founder of [Kodem ABNT](https://kodem.com.br)** — a SaaS that formats Brazilian academic papers to the ABNT standard: reference auto-fill from DOI/ISBN/URL, a CrossRef-backed reference checker and Word (`.docx`) export. Angular 20 + Laravel, 500+ active users since its June 2026 launch.
-- 🌍 **Open-source contributor** — 19 merged pull requests in Laravel, Symfony, Angular, Swashbuckle.AspNetCore and Super Productivity: framework fixes and documentation corrections ([see below](#open-source-contributions)).
+- 🌍 **Open-source contributor** — 27 merged pull requests in Laravel, Symfony, Angular, Swashbuckle.AspNetCore and Super Productivity: framework fixes and documentation corrections ([see below](#open-source-contributions)).
 - 📜 [145 TreinaWeb certificates](https://github.com/GabeSilvaDev/certificados) (12 learning paths, 133 courses), each with a public validation link.
 - 🎓 B.Sc. in Computer Science at UNIP (expected December 2027).
 
@@ -88,7 +88,7 @@ Character sheet and real-time online table for the *Ordem Paranormal* RPG: sheet
 
 ## Open-source contributions
 
-**19 merged pull requests in 7 repositories**
+**27 merged pull requests in 7 repositories**
 
 **Framework and library fixes**
 
@@ -96,8 +96,12 @@ Character sheet and real-time online table for the *Ordem Paranormal* RPG: sheet
 |---|---|:---:|
 | [laravel/framework](https://github.com/laravel/framework) | [#61567](https://github.com/laravel/framework/pull/61567) — Fix `appendToPriorityList()` when the referenced middleware is the first item | ✅ Merged |
 | [symfony/symfony](https://github.com/symfony/symfony) | [#66023](https://github.com/symfony/symfony/pull/66023) — [HttpFoundation] Fix `IpUtils::anonymize()` for non-canonical IPv4-mapped addresses | ✅ Merged |
+| [symfony/symfony](https://github.com/symfony/symfony) | [#66562](https://github.com/symfony/symfony/pull/66562) — [JsonPath] Fix index and slice selectors dropping `null` array elements | ✅ Merged |
 | [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | [#4152](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/4152) — Strip query string from relative document URLs in Swagger UI | ✅ Merged |
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10059](https://github.com/super-productivity/super-productivity/pull/10059) · [#10075](https://github.com/super-productivity/super-productivity/pull/10075) · [#10076](https://github.com/super-productivity/super-productivity/pull/10076) — tag suggestions, dropped i18n placeholders and op-log sync of time tracking | ✅ Merged |
+| [symfony/symfony](https://github.com/symfony/symfony) | [#66563](https://github.com/symfony/symfony/pull/66563) — [JsonPath] Fix anchoring and slash escaping in `match()` and `search()` | 🔍 In review |
+| [Filament](https://github.com/filamentphp/filament) | [#20629](https://github.com/filamentphp/filament/pull/20629) — Fix `scopedUnique()` and `scopedExists()` rules without a schema model | 🔍 In review |
+| [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10470](https://github.com/super-productivity/super-productivity/pull/10470) — Let plugin issue providers declare their done states | 🔍 In review |
 | [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | [#12888](https://github.com/typescript-eslint/typescript-eslint/pull/12888) — Declare inferred type parameters in the conditional type whose `extends` clause contains them | 🔍 In review |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | [#7937](https://github.com/ghostfolio/ghostfolio/pull/7937) — Fix alignment of the average price in the holding detail chart | 🔍 In review |
 
@@ -105,8 +109,8 @@ Character sheet and real-time online table for the *Ordem Paranormal* RPG: sheet
 
 | Project | Pull requests | What they fix |
 |---|---|---|
-| [laravel/docs](https://github.com/laravel/docs) | [#11378](https://github.com/laravel/docs/pull/11378) · [#11380](https://github.com/laravel/docs/pull/11380) · [#11381](https://github.com/laravel/docs/pull/11381) · [#11382](https://github.com/laravel/docs/pull/11382) · [#11384](https://github.com/laravel/docs/pull/11384) · [#11385](https://github.com/laravel/docs/pull/11385) · [#11386](https://github.com/laravel/docs/pull/11386) · [#11387](https://github.com/laravel/docs/pull/11387) · [#11388](https://github.com/laravel/docs/pull/11388) | Code examples that fail when run, wrong class and method names, and descriptions that don't match 13.x behavior |
-| [angular/angular](https://github.com/angular/angular) | [#70996](https://github.com/angular/angular/pull/70996) · [#71049](https://github.com/angular/angular/pull/71049) · [#71091](https://github.com/angular/angular/pull/71091) | Guides still describing APIs and defaults from before v20–v22 |
+| [laravel/docs](https://github.com/laravel/docs) | [#11378](https://github.com/laravel/docs/pull/11378) · [#11380](https://github.com/laravel/docs/pull/11380) · [#11381](https://github.com/laravel/docs/pull/11381) · [#11382](https://github.com/laravel/docs/pull/11382) · [#11384](https://github.com/laravel/docs/pull/11384) · [#11385](https://github.com/laravel/docs/pull/11385) · [#11386](https://github.com/laravel/docs/pull/11386) · [#11387](https://github.com/laravel/docs/pull/11387) · [#11388](https://github.com/laravel/docs/pull/11388) · [#11391](https://github.com/laravel/docs/pull/11391) · [#11392](https://github.com/laravel/docs/pull/11392) · [#11393](https://github.com/laravel/docs/pull/11393) | Code examples that fail when run, wrong class and method names, and descriptions that don't match 13.x behavior |
+| [angular/angular](https://github.com/angular/angular) | [#70996](https://github.com/angular/angular/pull/70996) · [#71049](https://github.com/angular/angular/pull/71049) · [#71052](https://github.com/angular/angular/pull/71052) · [#71091](https://github.com/angular/angular/pull/71091) · [#71116](https://github.com/angular/angular/pull/71116) · [#71120](https://github.com/angular/angular/pull/71120) · [#71131](https://github.com/angular/angular/pull/71131) | Guides and API docs still describing APIs and defaults from before v20–v22, and examples that no longer work |
 | [symfony/symfony-docs](https://github.com/symfony/symfony-docs) | [#23128](https://github.com/symfony/symfony-docs/pull/23128) | Wrong default for the `Range` constraint's `invalidDateTimeMessage` |
 
 ## Contact
