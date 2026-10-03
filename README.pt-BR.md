@@ -20,7 +20,7 @@ Desenvolvedor full-stack com mais de 2 anos e meio construindo aplicações web 
 
 - 💼 **Desenvolvedor Full-Stack na [AGTech Soluções](https://grupoagtech.com)** — remoto, desde março de 2024 (pleno desde janeiro de 2026). Produtos em Laravel + Angular + MySQL (HidroMeter, Topes, PremoPlan) usados por clientes no Brasil, em Singapura e no Panamá. Projetei e sou responsável, de ponta a ponta, pelo módulo de acionamento automático do HidroMeter.
 - 🚀 **Fundador do [Kodem ABNT](https://kodem.com.br)** — SaaS que formata trabalhos acadêmicos nas normas da ABNT: preenchimento automático de referências por DOI/ISBN/URL, verificador de referências com CrossRef e exportação para Word (`.docx`). Angular 20 + Laravel, mais de 500 usuários ativos desde o lançamento em junho de 2026.
-- 🌍 **Contribuidor open source** — 27 pull requests mesclados no Laravel, Symfony, Angular, Swashbuckle.AspNetCore e Super Productivity: correções de framework e de documentação ([veja abaixo](#contribuições-open-source)).
+- 🌍 **Contribuidor open source** — 29 pull requests mesclados no Laravel, Symfony, Angular, Filament, Swashbuckle.AspNetCore e Super Productivity: correções de framework e de documentação ([veja abaixo](#contribuições-open-source)).
 - 📜 [145 certificados da TreinaWeb](https://github.com/GabeSilvaDev/certificados) (12 formações e 133 cursos), cada um com link público de validação.
 - 🎓 Bacharelado em Ciência da Computação na UNIP (conclusão prevista para dezembro de 2027).
 
@@ -88,7 +88,7 @@ Ficha de personagem e mesa online em tempo real para o RPG *Ordem Paranormal*: f
 
 ## Contribuições open source
 
-**27 pull requests mesclados em 7 repositórios**
+**29 pull requests mesclados em 8 repositórios**
 
 **Correções em frameworks e bibliotecas**
 
@@ -99,8 +99,8 @@ Ficha de personagem e mesa online em tempo real para o RPG *Ordem Paranormal*: f
 | [symfony/symfony](https://github.com/symfony/symfony) | [#66562](https://github.com/symfony/symfony/pull/66562) — [JsonPath] Corrige seletores de índice e slice que descartavam elementos `null` | ✅ Mesclado |
 | [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | [#4152](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/4152) — Remove a query string das URLs relativas de documentos no Swagger UI | ✅ Mesclado |
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10059](https://github.com/super-productivity/super-productivity/pull/10059) · [#10075](https://github.com/super-productivity/super-productivity/pull/10075) · [#10076](https://github.com/super-productivity/super-productivity/pull/10076) — sugestões de tag, placeholders de i18n perdidos e sincronização do tempo registrado no op-log | ✅ Mesclado |
-| [symfony/symfony](https://github.com/symfony/symfony) | [#66563](https://github.com/symfony/symfony/pull/66563) — [JsonPath] Corrige a ancoragem e o escape de `/` em `match()` e `search()` | 🔍 Em revisão |
-| [Filament](https://github.com/filamentphp/filament) | [#20629](https://github.com/filamentphp/filament/pull/20629) — Corrige as regras `scopedUnique()` e `scopedExists()` sem model no schema | 🔍 Em revisão |
+| [symfony/symfony](https://github.com/symfony/symfony) | [#66563](https://github.com/symfony/symfony/pull/66563) — [JsonPath] Corrige a ancoragem e o escape de `/` em `match()` e `search()` | ✅ Mesclado |
+| [Filament](https://github.com/filamentphp/filament) | [#20629](https://github.com/filamentphp/filament/pull/20629) — Corrige as regras `scopedUnique()` e `scopedExists()` sem model no schema | ✅ Mesclado |
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10470](https://github.com/super-productivity/super-productivity/pull/10470) — Permite que provedores de issues de plugins declarem seus estados de concluído | 🔍 Em revisão |
 | [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | [#12888](https://github.com/typescript-eslint/typescript-eslint/pull/12888) — Declara parâmetros de tipo inferidos no tipo condicional cuja cláusula `extends` os contém | 🔍 Em revisão |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | [#7937](https://github.com/ghostfolio/ghostfolio/pull/7937) — Corrige o alinhamento do preço médio no gráfico de detalhes do ativo | 🔍 Em revisão |

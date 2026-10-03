@@ -20,7 +20,7 @@ Full-stack developer with 2.5+ years building production web applications — RE
 
 - 💼 **Full-Stack Developer at [AGTech Soluções](https://grupoagtech.com)** — remote, since March 2024 (mid-level since January 2026). Laravel + Angular + MySQL products (HidroMeter, Topes, PremoPlan) used by clients in Brazil, Singapore and Panama. I designed and own HidroMeter's automatic-trigger module end to end.
 - 🚀 **Founder of [Kodem ABNT](https://kodem.com.br)** — a SaaS that formats Brazilian academic papers to the ABNT standard: reference auto-fill from DOI/ISBN/URL, a CrossRef-backed reference checker and Word (`.docx`) export. Angular 20 + Laravel, 500+ active users since its June 2026 launch.
-- 🌍 **Open-source contributor** — 27 merged pull requests in Laravel, Symfony, Angular, Swashbuckle.AspNetCore and Super Productivity: framework fixes and documentation corrections ([see below](#open-source-contributions)).
+- 🌍 **Open-source contributor** — 29 merged pull requests in Laravel, Symfony, Angular, Filament, Swashbuckle.AspNetCore and Super Productivity: framework fixes and documentation corrections ([see below](#open-source-contributions)).
 - 📜 [145 TreinaWeb certificates](https://github.com/GabeSilvaDev/certificados) (12 learning paths, 133 courses), each with a public validation link.
 - 🎓 B.Sc. in Computer Science at UNIP (expected December 2027).
 
@@ -88,7 +88,7 @@ Character sheet and real-time online table for the *Ordem Paranormal* RPG: sheet
 
 ## Open-source contributions
 
-**27 merged pull requests in 7 repositories**
+**29 merged pull requests in 8 repositories**
 
 **Framework and library fixes**
 
@@ -99,8 +99,8 @@ Character sheet and real-time online table for the *Ordem Paranormal* RPG: sheet
 | [symfony/symfony](https://github.com/symfony/symfony) | [#66562](https://github.com/symfony/symfony/pull/66562) — [JsonPath] Fix index and slice selectors dropping `null` array elements | ✅ Merged |
 | [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | [#4152](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/4152) — Strip query string from relative document URLs in Swagger UI | ✅ Merged |
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10059](https://github.com/super-productivity/super-productivity/pull/10059) · [#10075](https://github.com/super-productivity/super-productivity/pull/10075) · [#10076](https://github.com/super-productivity/super-productivity/pull/10076) — tag suggestions, dropped i18n placeholders and op-log sync of time tracking | ✅ Merged |
-| [symfony/symfony](https://github.com/symfony/symfony) | [#66563](https://github.com/symfony/symfony/pull/66563) — [JsonPath] Fix anchoring and slash escaping in `match()` and `search()` | 🔍 In review |
-| [Filament](https://github.com/filamentphp/filament) | [#20629](https://github.com/filamentphp/filament/pull/20629) — Fix `scopedUnique()` and `scopedExists()` rules without a schema model | 🔍 In review |
+| [symfony/symfony](https://github.com/symfony/symfony) | [#66563](https://github.com/symfony/symfony/pull/66563) — [JsonPath] Fix anchoring and slash escaping in `match()` and `search()` | ✅ Merged |
+| [Filament](https://github.com/filamentphp/filament) | [#20629](https://github.com/filamentphp/filament/pull/20629) — Fix `scopedUnique()` and `scopedExists()` rules without a schema model | ✅ Merged |
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10470](https://github.com/super-productivity/super-productivity/pull/10470) — Let plugin issue providers declare their done states | 🔍 In review |
 | [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | [#12888](https://github.com/typescript-eslint/typescript-eslint/pull/12888) — Declare inferred type parameters in the conditional type whose `extends` clause contains them | 🔍 In review |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | [#7937](https://github.com/ghostfolio/ghostfolio/pull/7937) — Fix alignment of the average price in the holding detail chart | 🔍 In review |
