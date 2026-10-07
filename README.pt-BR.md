@@ -20,7 +20,7 @@ Desenvolvedor full-stack com mais de 2 anos e meio construindo aplicações web 
 
 - 💼 **Desenvolvedor Full-Stack na [AGTech Soluções](https://grupoagtech.com)** — remoto, desde março de 2024 (pleno desde janeiro de 2026). Produtos em Laravel + Angular + MySQL (HidroMeter, Topes, PremoPlan) usados por clientes no Brasil, em Singapura e no Panamá. Projetei e sou responsável, de ponta a ponta, pelo módulo de acionamento automático do HidroMeter.
 - 🚀 **Fundador do [Kodem ABNT](https://kodem.com.br)** — SaaS que formata trabalhos acadêmicos nas normas da ABNT: preenchimento automático de referências por DOI/ISBN/URL, verificador de referências com CrossRef e exportação para Word (`.docx`). Angular 20 + Laravel, mais de 500 usuários ativos desde o lançamento em junho de 2026.
-- 🌍 **Contribuidor open source** — 29 pull requests mesclados no Laravel, Symfony, Angular, Filament, Swashbuckle.AspNetCore e Super Productivity: correções de framework e de documentação ([veja abaixo](#contribuições-open-source)).
+- 🌍 **Contribuidor open source** — 33 pull requests mesclados no Laravel, Symfony, Angular, Filament, Swashbuckle.AspNetCore e Super Productivity: correções de framework e de documentação ([veja abaixo](#contribuições-open-source)).
 - 📜 [145 certificados da TreinaWeb](https://github.com/GabeSilvaDev/certificados) (12 formações e 133 cursos), cada um com link público de validação.
 - 🎓 Bacharelado em Ciência da Computação na UNIP (conclusão prevista para dezembro de 2027).
 
@@ -88,7 +88,7 @@ Ficha de personagem e mesa online em tempo real para o RPG *Ordem Paranormal*: f
 
 ## Contribuições open source
 
-**29 pull requests mesclados em 8 repositórios**
+**33 pull requests mesclados em 8 repositórios**
 
 **Correções em frameworks e bibliotecas**
 
@@ -101,9 +101,14 @@ Ficha de personagem e mesa online em tempo real para o RPG *Ordem Paranormal*: f
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10059](https://github.com/super-productivity/super-productivity/pull/10059) · [#10075](https://github.com/super-productivity/super-productivity/pull/10075) · [#10076](https://github.com/super-productivity/super-productivity/pull/10076) — sugestões de tag, placeholders de i18n perdidos e sincronização do tempo registrado no op-log | ✅ Mesclado |
 | [symfony/symfony](https://github.com/symfony/symfony) | [#66563](https://github.com/symfony/symfony/pull/66563) — [JsonPath] Corrige a ancoragem e o escape de `/` em `match()` e `search()` | ✅ Mesclado |
 | [Filament](https://github.com/filamentphp/filament) | [#20629](https://github.com/filamentphp/filament/pull/20629) — Corrige as regras `scopedUnique()` e `scopedExists()` sem model no schema | ✅ Mesclado |
+| [symfony/symfony](https://github.com/symfony/symfony) | [#66592](https://github.com/symfony/symfony/pull/66592) — [Yaml] Coloca entre aspas strings numéricas com sinal ou decimais com underscores no dump | ✅ Mesclado |
+| [symfony/symfony](https://github.com/symfony/symfony) | [#66593](https://github.com/symfony/symfony/pull/66593) — [JsonPath] Corrige o escape de barras invertidas e caracteres de controle em `JsonPath::key()` | ✅ Mesclado |
+| [laravel/framework](https://github.com/laravel/framework) | [#61881](https://github.com/laravel/framework/pull/61881) — Corrige o `forget()` de um array de chaves no cache memoizado com tags | ✅ Mesclado |
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10470](https://github.com/super-productivity/super-productivity/pull/10470) — Permite que provedores de issues de plugins declarem seus estados de concluído | 🔍 Em revisão |
 | [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | [#12888](https://github.com/typescript-eslint/typescript-eslint/pull/12888) — Declara parâmetros de tipo inferidos no tipo condicional cuja cláusula `extends` os contém | 🔍 Em revisão |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | [#7937](https://github.com/ghostfolio/ghostfolio/pull/7937) — Corrige o alinhamento do preço médio no gráfico de detalhes do ativo | 🔍 Em revisão |
+| [angular/angular](https://github.com/angular/angular) | [#71188](https://github.com/angular/angular/pull/71188) — Impede que parâmetros de arrow functions aninhadas vazem para o escopo pai no compilador de templates | 🔍 Em revisão |
+| [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10543](https://github.com/super-productivity/super-productivity/pull/10543) — Traduz strings pt-BR que faltavam | 🔍 Em revisão |
 
 **Documentação** — cada correção conferida no código-fonte do framework, a maioria com um script que reproduz o comportamento errado
 
@@ -111,7 +116,7 @@ Ficha de personagem e mesa online em tempo real para o RPG *Ordem Paranormal*: f
 |---|---|---|
 | [laravel/docs](https://github.com/laravel/docs) | [#11378](https://github.com/laravel/docs/pull/11378) · [#11380](https://github.com/laravel/docs/pull/11380) · [#11381](https://github.com/laravel/docs/pull/11381) · [#11382](https://github.com/laravel/docs/pull/11382) · [#11384](https://github.com/laravel/docs/pull/11384) · [#11385](https://github.com/laravel/docs/pull/11385) · [#11386](https://github.com/laravel/docs/pull/11386) · [#11387](https://github.com/laravel/docs/pull/11387) · [#11388](https://github.com/laravel/docs/pull/11388) · [#11391](https://github.com/laravel/docs/pull/11391) · [#11392](https://github.com/laravel/docs/pull/11392) · [#11393](https://github.com/laravel/docs/pull/11393) | Exemplos de código que falham ao rodar, nomes de classes e métodos errados e descrições que não batem com o comportamento do 13.x |
 | [angular/angular](https://github.com/angular/angular) | [#70996](https://github.com/angular/angular/pull/70996) · [#71049](https://github.com/angular/angular/pull/71049) · [#71052](https://github.com/angular/angular/pull/71052) · [#71091](https://github.com/angular/angular/pull/71091) · [#71116](https://github.com/angular/angular/pull/71116) · [#71120](https://github.com/angular/angular/pull/71120) · [#71131](https://github.com/angular/angular/pull/71131) | Guias e docs de API que ainda descreviam APIs e padrões de antes da v20–v22, e exemplos que não funcionavam mais |
-| [symfony/symfony-docs](https://github.com/symfony/symfony-docs) | [#23128](https://github.com/symfony/symfony-docs/pull/23128) | Valor padrão errado do `invalidDateTimeMessage` da constraint `Range` |
+| [symfony/symfony-docs](https://github.com/symfony/symfony-docs) | [#23128](https://github.com/symfony/symfony-docs/pull/23128) · [#23151](https://github.com/symfony/symfony-docs/pull/23151) | Valores padrão errados documentados para o `invalidDateTimeMessage` da constraint `Range` e a opção `logging` do translator |
 
 ## Contato
 
