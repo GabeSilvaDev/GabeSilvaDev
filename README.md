@@ -20,7 +20,7 @@ Full-stack developer with 2.5+ years building production web applications — RE
 
 - 💼 **Full-Stack Developer at [AGTech Soluções](https://grupoagtech.com)** — remote, since March 2024 (mid-level since January 2026). Laravel + Angular + MySQL products (HidroMeter, Topes, PremoPlan) used by clients in Brazil, Singapore and Panama. I designed and own HidroMeter's automatic-trigger module end to end.
 - 🚀 **Founder of [Kodem ABNT](https://kodem.com.br)** — a SaaS that formats Brazilian academic papers to the ABNT standard: reference auto-fill from DOI/ISBN/URL, a CrossRef-backed reference checker and Word (`.docx`) export. Angular 20 + Laravel, 500+ active users since its June 2026 launch.
-- 🌍 **Open-source contributor** — 33 merged pull requests in Laravel, Symfony, Angular, Filament, Swashbuckle.AspNetCore and Super Productivity: framework fixes and documentation corrections ([see below](#open-source-contributions)).
+- 🌍 **Open-source contributor** — 34 merged pull requests in Laravel, Symfony, Angular, Filament, ng-native, Swashbuckle.AspNetCore and Super Productivity: framework fixes and documentation corrections ([see below](#open-source-contributions)).
 - 📜 [145 TreinaWeb certificates](https://github.com/GabeSilvaDev/certificados) (12 learning paths, 133 courses), each with a public validation link.
 - 🎓 B.Sc. in Computer Science at UNIP (expected December 2027).
 
@@ -88,7 +88,7 @@ Character sheet and real-time online table for the *Ordem Paranormal* RPG: sheet
 
 ## Open-source contributions
 
-**33 merged pull requests in 8 repositories**
+**34 merged pull requests in 10 repositories** · [see them all on GitHub](https://github.com/search?q=is%3Apr+is%3Amerged+author%3AGabeSilvaDev+-user%3AGabeSilvaDev+-user%3Akodemsystem+-user%3AWedfy-Tech&type=pullrequests)
 
 **Framework and library fixes**
 
@@ -104,11 +104,12 @@ Character sheet and real-time online table for the *Ordem Paranormal* RPG: sheet
 | [symfony/symfony](https://github.com/symfony/symfony) | [#66592](https://github.com/symfony/symfony/pull/66592) — [Yaml] Quote signed and decimal numeric strings with underscores when dumping | ✅ Merged |
 | [symfony/symfony](https://github.com/symfony/symfony) | [#66593](https://github.com/symfony/symfony/pull/66593) — [JsonPath] Fix escaping of backslashes and control characters in `JsonPath::key()` | ✅ Merged |
 | [laravel/framework](https://github.com/laravel/framework) | [#61881](https://github.com/laravel/framework/pull/61881) — Fix forgetting an array of keys on the memoized tagged cache | ✅ Merged |
+| [ng-native](https://github.com/ng-native/ng-native) | [#675](https://github.com/ng-native/ng-native/pull/675) — Apply a `@media` nested in another, and exclude each alternative of a list under `:not()` | ✅ Merged |
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10470](https://github.com/super-productivity/super-productivity/pull/10470) — Let plugin issue providers declare their done states | 🔍 In review |
-| [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | [#12888](https://github.com/typescript-eslint/typescript-eslint/pull/12888) — Declare inferred type parameters in the conditional type whose `extends` clause contains them | 🔍 In review |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | [#7937](https://github.com/ghostfolio/ghostfolio/pull/7937) — Fix alignment of the average price in the holding detail chart | 🔍 In review |
 | [angular/angular](https://github.com/angular/angular) | [#71188](https://github.com/angular/angular/pull/71188) — Do not leak nested arrow function parameters into the parent scope in the template compiler | 🔍 In review |
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10543](https://github.com/super-productivity/super-productivity/pull/10543) — Translate missing pt-BR strings | 🔍 In review |
+| [ng-native](https://github.com/ng-native/ng-native) | [#685](https://github.com/ng-native/ng-native/pull/685) — Match the `class` attribute, count the scope in `:is()` and require each `:host-context()` | 🔍 In review |
 
 **Documentation** — each fix checked against the framework source, most with a script reproducing the wrong behavior
 

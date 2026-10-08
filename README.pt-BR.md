@@ -20,7 +20,7 @@ Desenvolvedor full-stack com mais de 2 anos e meio construindo aplicações web 
 
 - 💼 **Desenvolvedor Full-Stack na [AGTech Soluções](https://grupoagtech.com)** — remoto, desde março de 2024 (pleno desde janeiro de 2026). Produtos em Laravel + Angular + MySQL (HidroMeter, Topes, PremoPlan) usados por clientes no Brasil, em Singapura e no Panamá. Projetei e sou responsável, de ponta a ponta, pelo módulo de acionamento automático do HidroMeter.
 - 🚀 **Fundador do [Kodem ABNT](https://kodem.com.br)** — SaaS que formata trabalhos acadêmicos nas normas da ABNT: preenchimento automático de referências por DOI/ISBN/URL, verificador de referências com CrossRef e exportação para Word (`.docx`). Angular 20 + Laravel, mais de 500 usuários ativos desde o lançamento em junho de 2026.
-- 🌍 **Contribuidor open source** — 33 pull requests mesclados no Laravel, Symfony, Angular, Filament, Swashbuckle.AspNetCore e Super Productivity: correções de framework e de documentação ([veja abaixo](#contribuições-open-source)).
+- 🌍 **Contribuidor open source** — 34 pull requests mesclados no Laravel, Symfony, Angular, Filament, ng-native, Swashbuckle.AspNetCore e Super Productivity: correções de framework e de documentação ([veja abaixo](#contribuições-open-source)).
 - 📜 [145 certificados da TreinaWeb](https://github.com/GabeSilvaDev/certificados) (12 formações e 133 cursos), cada um com link público de validação.
 - 🎓 Bacharelado em Ciência da Computação na UNIP (conclusão prevista para dezembro de 2027).
 
@@ -88,7 +88,7 @@ Ficha de personagem e mesa online em tempo real para o RPG *Ordem Paranormal*: f
 
 ## Contribuições open source
 
-**33 pull requests mesclados em 8 repositórios**
+**34 pull requests mesclados em 10 repositórios** · [veja todos no GitHub](https://github.com/search?q=is%3Apr+is%3Amerged+author%3AGabeSilvaDev+-user%3AGabeSilvaDev+-user%3Akodemsystem+-user%3AWedfy-Tech&type=pullrequests)
 
 **Correções em frameworks e bibliotecas**
 
@@ -104,11 +104,12 @@ Ficha de personagem e mesa online em tempo real para o RPG *Ordem Paranormal*: f
 | [symfony/symfony](https://github.com/symfony/symfony) | [#66592](https://github.com/symfony/symfony/pull/66592) — [Yaml] Coloca entre aspas strings numéricas com sinal ou decimais com underscores no dump | ✅ Mesclado |
 | [symfony/symfony](https://github.com/symfony/symfony) | [#66593](https://github.com/symfony/symfony/pull/66593) — [JsonPath] Corrige o escape de barras invertidas e caracteres de controle em `JsonPath::key()` | ✅ Mesclado |
 | [laravel/framework](https://github.com/laravel/framework) | [#61881](https://github.com/laravel/framework/pull/61881) — Corrige o `forget()` de um array de chaves no cache memoizado com tags | ✅ Mesclado |
+| [ng-native](https://github.com/ng-native/ng-native) | [#675](https://github.com/ng-native/ng-native/pull/675) — Aplica um `@media` aninhado em outro e exclui cada alternativa de uma lista dentro de `:not()` | ✅ Mesclado |
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10470](https://github.com/super-productivity/super-productivity/pull/10470) — Permite que provedores de issues de plugins declarem seus estados de concluído | 🔍 Em revisão |
-| [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | [#12888](https://github.com/typescript-eslint/typescript-eslint/pull/12888) — Declara parâmetros de tipo inferidos no tipo condicional cuja cláusula `extends` os contém | 🔍 Em revisão |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | [#7937](https://github.com/ghostfolio/ghostfolio/pull/7937) — Corrige o alinhamento do preço médio no gráfico de detalhes do ativo | 🔍 Em revisão |
 | [angular/angular](https://github.com/angular/angular) | [#71188](https://github.com/angular/angular/pull/71188) — Impede que parâmetros de arrow functions aninhadas vazem para o escopo pai no compilador de templates | 🔍 Em revisão |
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | [#10543](https://github.com/super-productivity/super-productivity/pull/10543) — Traduz strings pt-BR que faltavam | 🔍 Em revisão |
+| [ng-native](https://github.com/ng-native/ng-native) | [#685](https://github.com/ng-native/ng-native/pull/685) — Casa o atributo `class`, conta o escopo em `:is()` e exige cada `:host-context()` | 🔍 Em revisão |
 
 **Documentação** — cada correção conferida no código-fonte do framework, a maioria com um script que reproduz o comportamento errado
 
